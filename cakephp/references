@@ -1,0 +1,2 @@
+sudo find -type d -exec chmod -R 755 {} \;
+for files - 644

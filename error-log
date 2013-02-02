@@ -1,0 +1,50 @@
+[Sun May 13 13:39:01 2012] [notice] Apache/2.2.20 (Ubuntu) PHP/5.3.6-13ubuntu3.6 with Suhosin-Patch configured -- resuming normal operations
+[Sun May 13 13:43:24 2012] [error] [client 127.0.0.1] File does not exist: /home/vivek/Projects/hackathon/favicon.ico
+[Sun May 13 13:43:53 2012] [error] [client 127.0.0.1] File does not exist: /home/vivek/Projects/hackathon/favicon.ico
+[Sun May 13 13:43:57 2012] [error] [client 127.0.0.1] File does not exist: /home/vivek/Projects/hackathon/favicon.ico
+[Sun May 13 13:44:00 2012] [error] [client 127.0.0.1] File does not exist: /home/vivek/Projects/hackathon/favicon.ico
+[Sun May 13 13:51:11 2012] [error] [client 127.0.0.1] PHP Warning:  _cake_core_ cache was unable to write 'cake_dev_en-us' to File cache in /home/vivek/Projects/hackathon/cakephp/lib/Cake/Cache/Cache.php on line 306
+[Sun May 13 13:51:11 2012] [error] [client 127.0.0.1] PHP Warning:  /home/vivek/Projects/hackathon/cakephp/app/tmp/cache/persistent/ is not writable in /home/vivek/Projects/hackathon/cakephp/lib/Cake/Cache/Engine/FileEngine.php on line 320
+[Sun May 13 13:51:11 2012] [error] [client 127.0.0.1] PHP Warning:  /home/vivek/Projects/hackathon/cakephp/app/tmp/cache/models/ is not writable in /home/vivek/Projects/hackathon/cakephp/lib/Cake/Cache/Engine/FileEngine.php on line 320
+[Sun May 13 13:51:11 2012] [error] [client 127.0.0.1] File does not exist: /home/vivek/Projects/hackathon/cakephp/css, referer: http://localhost/cakephp/
+[Sun May 13 13:51:11 2012] [error] [client 127.0.0.1] File does not exist: /home/vivek/Projects/hackathon/cakephp/img, referer: http://localhost/cakephp/
+[Sun May 13 13:51:11 2012] [error] [client 127.0.0.1] File does not exist: /home/vivek/Projects/hackathon/cakephp/favicon.ico
+[Sun May 13 13:51:13 2012] [error] [client 127.0.0.1] PHP Warning:  _cake_core_ cache was unable to write 'cake_dev_en-us' to File cache in /home/vivek/Projects/hackathon/cakephp/lib/Cake/Cache/Cache.php on line 306
+[Sun May 13 13:51:13 2012] [error] [client 127.0.0.1] PHP Warning:  /home/vivek/Projects/hackathon/cakephp/app/tmp/cache/persistent/ is not writable in /home/vivek/Projects/hackathon/cakephp/lib/Cake/Cache/Engine/FileEngine.php on line 320
+[Sun May 13 13:51:13 2012] [error] [client 127.0.0.1] PHP Warning:  /home/vivek/Projects/hackathon/cakephp/app/tmp/cache/models/ is not writable in /home/vivek/Projects/hackathon/cakephp/lib/Cake/Cache/Engine/FileEngine.php on line 320
+[Sun May 13 13:51:13 2012] [error] [client 127.0.0.1] File does not exist: /home/vivek/Projects/hackathon/cakephp/css, referer: http://localhost/cakephp/
+[Sun May 13 13:51:13 2012] [error] [client 127.0.0.1] File does not exist: /home/vivek/Projects/hackathon/cakephp/img, referer: http://localhost/cakephp/
+[Sun May 13 13:51:13 2012] [error] [client 127.0.0.1] File does not exist: /home/vivek/Projects/hackathon/cakephp/favicon.ico
+[Sun May 13 13:51:14 2012] [error] [client 127.0.0.1] PHP Warning:  _cake_core_ cache was unable to write 'cake_dev_en-us' to File cache in /home/vivek/Projects/hackathon/cakephp/lib/Cake/Cache/Cache.php on line 306
+[Sun May 13 13:51:14 2012] [error] [client 127.0.0.1] PHP Warning:  /home/vivek/Projects/hackathon/cakephp/app/tmp/cache/persistent/ is not writable in /home/vivek/Projects/hackathon/cakephp/lib/Cake/Cache/Engine/FileEngine.php on line 320
+[Sun May 13 13:51:14 2012] [error] [client 127.0.0.1] PHP Warning:  /home/vivek/Projects/hackathon/cakephp/app/tmp/cache/models/ is not writable in /home/vivek/Projects/hackathon/cakephp/lib/Cake/Cache/Engine/FileEngine.php on line 320
+[Sun May 13 13:51:15 2012] [error] [client 127.0.0.1] File does not exist: /home/vivek/Projects/hackathon/cakephp/css, referer: http://localhost/cakephp/
+[Sun May 13 13:51:15 2012] [error] [client 127.0.0.1] File does not exist: /home/vivek/Projects/hackathon/cakephp/img, referer: http://localhost/cakephp/
+[Sun May 13 13:51:15 2012] [error] [client 127.0.0.1] File does not exist: /home/vivek/Projects/hackathon/cakephp/favicon.ico
+[Sun May 13 15:13:25 2012] [error] [client 127.0.0.1] PHP Warning:  _cake_core_ cache was unable to write 'cake_dev_en-us' to File cache in /home/vivek/Projects/hackathon/cakephp/lib/Cake/Cache/Cache.php on line 306
+[Sun May 13 15:13:25 2012] [error] [client 127.0.0.1] PHP Warning:  /home/vivek/Projects/hackathon/cakephp/app/tmp/cache/persistent/ is not writable in /home/vivek/Projects/hackathon/cakephp/lib/Cake/Cache/Engine/FileEngine.php on line 320
+[Sun May 13 15:13:25 2012] [error] [client 127.0.0.1] PHP Warning:  /home/vivek/Projects/hackathon/cakephp/app/tmp/cache/models/ is not writable in /home/vivek/Projects/hackathon/cakephp/lib/Cake/Cache/Engine/FileEngine.php on line 320
+[Sun May 13 15:13:25 2012] [error] [client 127.0.0.1] File does not exist: /home/vivek/Projects/hackathon/cakephp/css, referer: http://localhost/cakephp/
+[Sun May 13 15:13:25 2012] [error] [client 127.0.0.1] File does not exist: /home/vivek/Projects/hackathon/cakephp/img, referer: http://localhost/cakephp/
+[Sun May 13 15:13:26 2012] [error] [client 127.0.0.1] File does not exist: /home/vivek/Projects/hackathon/cakephp/favicon.ico
+[Sun May 13 15:16:04 2012] [error] [client 127.0.0.1] File does not exist: /home/vivek/Projects/hackathon/cakephp/css, referer: http://localhost/cakephp/
+[Sun May 13 15:16:04 2012] [error] [client 127.0.0.1] File does not exist: /home/vivek/Projects/hackathon/cakephp/img, referer: http://localhost/cakephp/
+[Sun May 13 15:16:04 2012] [error] [client 127.0.0.1] File does not exist: /home/vivek/Projects/hackathon/cakephp/favicon.ico
+[Sun May 13 15:18:16 2012] [error] [client 127.0.0.1] File does not exist: /home/vivek/Projects/hackathon/favicon.ico
+[Sun May 13 15:19:05 2012] [error] [client 127.0.0.1] File does not exist: /home/vivek/Projects/hackathon/favicon.ico
+[Sun May 13 15:19:11 2012] [error] [client 127.0.0.1] File does not exist: /home/vivek/Projects/hackathon/favicon.ico
+[Sun May 13 15:27:22 2012] [error] [client 127.0.0.1] File does not exist: /home/vivek/Projects/hackathon/cakephp/css, referer: http://localhost/cakephp/
+[Sun May 13 15:27:22 2012] [error] [client 127.0.0.1] File does not exist: /home/vivek/Projects/hackathon/cakephp/img, referer: http://localhost/cakephp/
+[Sun May 13 15:27:23 2012] [error] [client 127.0.0.1] File does not exist: /home/vivek/Projects/hackathon/cakephp/favicon.ico
+[Sun May 13 15:45:43 2012] [error] [client 127.0.0.1] File does not exist: /home/vivek/Projects/hackathon/cakephp/posts
+[Sun May 13 15:45:43 2012] [error] [client 127.0.0.1] File does not exist: /home/vivek/Projects/hackathon/favicon.ico
+[Sun May 13 15:46:37 2012] [error] [client 127.0.0.1] File does not exist: /home/vivek/Projects/hackathon/cakephp/posts
+[Sun May 13 15:46:37 2012] [error] [client 127.0.0.1] File does not exist: /home/vivek/Projects/hackathon/favicon.ico
+[Sun May 13 15:47:44 2012] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: posts in /home/vivek/Projects/hackathon/cakephp/app/View/Posts/index.php on line 11
+[Sun May 13 15:47:44 2012] [error] [client 127.0.0.1] PHP Warning:  Invalid argument supplied for foreach() in /home/vivek/Projects/hackathon/cakephp/app/View/Posts/index.php on line 11
+[Sun May 13 15:47:44 2012] [error] [client 127.0.0.1] File does not exist: /home/vivek/Projects/hackathon/favicon.ico
+[Sun May 13 15:49:45 2012] [error] [client 127.0.0.1] File does not exist: /home/vivek/Projects/hackathon/cakephp/css, referer: http://localhost/cakephp/
+[Sun May 13 15:49:45 2012] [error] [client 127.0.0.1] File does not exist: /home/vivek/Projects/hackathon/cakephp/img, referer: http://localhost/cakephp/
+[Sun May 13 15:49:45 2012] [error] [client 127.0.0.1] File does not exist: /home/vivek/Projects/hackathon/cakephp/favicon.ico
+[Sun May 13 15:52:11 2012] [notice] caught SIGTERM, shutting down
+[Sat Feb 02 01:03:40 2013] [notice] Apache/2.2.20 (Ubuntu) PHP/5.3.6-13ubuntu3.6 with Suhosin-Patch configured -- resuming normal operations
